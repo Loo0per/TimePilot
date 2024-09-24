@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimePilot</string>
+    <string name="footer">Stay Productive!!</string>
+    <string name="tasklist">Task List</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="del">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="entertask">Enter task</string>
+</resources>
